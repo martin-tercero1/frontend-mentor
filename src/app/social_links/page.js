@@ -23,7 +23,7 @@ export default function page() {
         <span className="font-semibold text-green">London, United Kingdom</span>
       </figure>
 
-      <p className="font-normal">"Front-end developer and avid reader."</p>
+      <p className="font-normal">&quot;Front-end developer and avid reader.&quot;</p>
 
       <a
         className="w-full text-center font-bold shadow-md bg-drak_grey py-3 px-10 rounded-lg active:bg-green hover:bg-green hover:text-off_black"
