@@ -8,7 +8,7 @@ const libre_franklin = Libre_Franklin({
 export default function BlogPreviewLayout({ children }) {
   return (
     <main
-      className={`bg-yellow text-black flex justify-center items-center w-screen h-screen text-[16px] ${figtree.className}`}
+      className={`bg-yellow text-black flex justify-center items-center w-screen h-screen text-[16px] ${libre_franklin.className}`}
     >
       {children}
     </main>
